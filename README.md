@@ -4,7 +4,7 @@
  |  项目名称 | 交管助手 |
  |  文件现状 | 在完成 |
  |  文件的主人 | 黄丽妙 |
- | 产品原型 | [公正罚单](https://76t0e1.axshare.com) |
+ | 产品原型 | [交管助手](https://76t0e1.axshare.com) |
 
 
 
@@ -18,7 +18,10 @@
 - 随着现代化城市车辆的逐年剧增，车辆的大量增长同时也给交通管理带来了一定的麻烦，城市交通管理工作日趋复杂，而传统的交通执法已经无法满足现代化交通管理的需求，交管助手的出现能够助力于交警完成移动执法工作，为其提供执法的便利。
 
 #### 2.用户画像
-
+- 画像1
+![用户画像1](https://github.com/HuangLiMiao/API/blob/master/imges/yonghu/yonghu1.PNG?raw=true)
+- 画像2
+![用户画像2](https://github.com/HuangLiMiao/API/blob/master/imges/yonghu/yonghu2.PNG?raw=true)
 #### 3.需求列表
 | 需求 | 用户场景 | 优先级 | 智能加值？ |API类型 |
 | :----: | :----: | :----: | :----: | :----: |
@@ -34,3 +37,10 @@
 - 场景二：交警想要违规停车车主尽快回来移动车辆，不要妨碍交通
 - 场景三：交警因被质疑开罚单是否公正与车主产生纠纷
 - 场景四：交警被质疑违规执法给政府带来负面的影响
+
+
+### [界面流程及关键智能交互](https://76t0e1.axshare.com)
+
+![原型一览1](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing1.png)
+![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png)
+![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png)
