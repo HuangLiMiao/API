@@ -4,7 +4,7 @@
  |  项目名称 | 交管助手 |
  |  文件现状 | 在完成 |
  |  文件的主人 | 黄丽妙 |
- | 产品原型 | [公正罚单](https://app.axure.cloud/app/project/76T0E1/overview) |
+ | 产品原型 | [公正罚单](https://76t0e1.axshare.com) |
 
 
 
