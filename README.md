@@ -64,7 +64,7 @@
 - 调用示例
 ![result1](https://github.com/HuangLiMiao/API/blob/master/imges/result/result1.PNG?raw=true)
 
-#### （2）[高德地理编码API](https://ai.baidu.com/tech/speech/tts_online)
+#### （2）[高德地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo)
 - 接口描述：地理编码/逆地理编码 API 是通过 HTTP/HTTPS 协议访问远程服务的接口，提供结构化地址与经纬度之间的相互转化的能力。
 - [技术文档](https://www.cnblogs.com/XieDong/p/7724556.html)
 - 调用示例
@@ -77,4 +77,4 @@
 ![result3](https://github.com/HuangLiMiao/API/blob/master/imges/result/result3.PNG?raw=true)
 
 ### 七、心得总结与感谢
-- 我觉得这次的期末作业最难的是想清楚你要做什么，因为这决定了你后面所有的工作会不会是无用功，为了能设计出更加符合用户需求的项目，我们除了要有自己的思考，还要有必不可少的用户研究，只有锁定了用户的需求，才能开发出被用户需要的产品。在本项目中，主要运用了百度开放平台的[百度车牌识别API](https://ai.baidu.com/tech/ocr_cars/plate)、[百度语音合成API](https://ai.baidu.com/tech/speech/tts_online)以及[高德地理编码API](https://ai.baidu.com/tech/speech/tts_online)，感谢这两个平台提供的开放服务，对本项目的实现具有重要贡献。
+- 我觉得这次的期末作业最难的是想清楚你要做什么，因为这决定了你后面所有的工作会不会是无用功，为了能设计出更加符合用户需求的项目，我们除了要有自己的思考，还要有必不可少的用户研究，只有锁定了用户的需求，才能开发出被用户需要的产品。在本项目中，主要运用了百度开放平台的[百度车牌识别API](https://ai.baidu.com/tech/ocr_cars/plate)、[百度语音合成API](https://ai.baidu.com/tech/speech/tts_online)以及[高德地理编码API](https://lbs.amap.com/api/webservice/guide/api/georegeo)，感谢这两个平台提供的开放服务，对本项目的实现具有重要贡献。
