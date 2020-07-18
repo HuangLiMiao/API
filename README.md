@@ -46,6 +46,8 @@
 ![原型一览1](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing1.png?raw=true)
 ![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png?raw=true)
 ![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png?raw=true)
+- 智能价值主张1:系统智能识别开罚单可以减少人为判断因素，民警的执法效率得以提高，也方便后台管理分析数据，从而加强对重点路段的管理力度。
+- 智能价值主张2:根据地理编码对比是否在停车区域内，自动判别是否违规停车，可以提高民众对于交警的信任度。
 
 ### 五、数据流程及关键智能API使用
 - 数据流程图
@@ -56,19 +58,19 @@
 - Desirability 用户可欲性：传统开罚单方式操作繁琐，且比较看交警个人主观判断，容易产生纠纷，此款产品不仅可以提高用户的工作效率，还可以比较客观公平地开罚单，从而减少相关的纠纷。
 
 ### [六、API 产品使用及输出展示](https://github.com/HuangLiMiao/API/blob/master/daima/finalwork.ipynb)
-#### （1）[百度车牌识别API])(https://ai.baidu.com/tech/ocr_cars/plate)
+#### （1）[百度车牌识别API](https://ai.baidu.com/tech/ocr_cars/plate)
 - 接口描述：支持识别中国大陆机动车蓝牌、黄牌（单双行）、绿牌、大型新能源（黄绿）、领使馆车牌、警牌、武警牌（单双行）、军牌（单双行）、港澳牌、农用车牌、民航车牌的地域编号和车牌号，并能同时识别图像中的多张车牌。
 - [技术文档](https://ai.baidu.com/ai-doc/OCR/ck3h7y191)
 - 调用示例
 ![result1](https://github.com/HuangLiMiao/API/blob/master/imges/result/result1.PNG?raw=true)
 
-#### （2）[高德地理编码API])(https://ai.baidu.com/tech/speech/tts_online)
+#### （2）[高德地理编码API](https://ai.baidu.com/tech/speech/tts_online)
 - 接口描述：地理编码/逆地理编码 API 是通过 HTTP/HTTPS 协议访问远程服务的接口，提供结构化地址与经纬度之间的相互转化的能力。
 - [技术文档](https://www.cnblogs.com/XieDong/p/7724556.html)
 - 调用示例
 ![result2](https://github.com/HuangLiMiao/API/blob/master/imges/result/result2.PNG?raw=true)
 
-#### （3）[百度语音合成API])(https://ai.baidu.com/tech/speech/tts_online)
+#### （3）[百度语音合成API](https://ai.baidu.com/tech/speech/tts_online)
 - 接口描述：百度语音合成服务，基于HTTP请求的REST API接口，将文本转换为可以播放的音频文件。合成的文件格式为 mp3，pcm（8k及16k），wav（16k），具体见aue参数。
 - [技术文档](https://ai.baidu.com/ai-doc/SPEECH/Qk38y8lrl)
 - 调用示例
