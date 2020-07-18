@@ -40,7 +40,17 @@
 
 
 ### [界面流程及关键智能交互](https://76t0e1.axshare.com)
-
+- 界面流程图
+![界面流程](https://github.com/HuangLiMiao/API/blob/master/imges/other/jiemian.jpg?raw=true)
+- 产品原型图一览
 ![原型一览1](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing1.png?raw=true)
 ![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png?raw=true)
 ![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png?raw=true)
+
+### 数据流程及关键智能API使用
+- 数据流程图
+![数据流程](https://github.com/HuangLiMiao/API/blob/master/imges/other/data.jpg?raw=true)
+#### IDEO 三要素（论证 MVP 加/价值）
+- Viability 商业可行性：自从公安部提出科技强警的政策方针以来，我国公安行业对切合一线警用的科研项目和设备投入了巨额经费。因此“云+端”的应用正在成为公安部门场景应用的常态,交管助手前景可观。
+- Feasibility 技术可行性：借助百度API和高德API开放平台以实现产品主要技术，使用计算机视觉的智能视觉分析图像，并利用计算机智能文字转语音API。
+- Desirability 用户可欲性：传统开罚单方式操作繁琐，且比较看交警个人主观判断，容易产生纠纷，此款产品不仅可以提高用户的工作效率，还可以比较客观公平地开罚单，从而减少相关的纠纷。
