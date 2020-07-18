@@ -1,5 +1,5 @@
 # API期末项目之交管助手
- 发布日期|2020-07-01
+发布日期|2020-07-01
 :--:|:--:
 项目名称|交管助手
 文件现状|在完成
@@ -39,7 +39,7 @@
 - 场景四：交警被质疑违规执法给政府带来负面的影响
 
 
-### [界面流程及关键智能交互](https://76t0e1.axshare.com)
+### [四、界面流程及关键智能交互](https://76t0e1.axshare.com)
 - 界面流程图
 ![界面流程](https://github.com/HuangLiMiao/API/blob/master/imges/other/jiemian.jpg?raw=true)
 - 产品原型图一览
@@ -47,10 +47,29 @@
 ![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png?raw=true)
 ![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png?raw=true)
 
-### 数据流程及关键智能API使用
+### 五、数据流程及关键智能API使用
 - 数据流程图
 ![数据流程](https://github.com/HuangLiMiao/API/blob/master/imges/other/data.jpg?raw=true)
 #### IDEO 三要素（论证 MVP 加/价值）
 - Viability 商业可行性：自从公安部提出科技强警的政策方针以来，我国公安行业对切合一线警用的科研项目和设备投入了巨额经费。因此“云+端”的应用正在成为公安部门场景应用的常态,交管助手前景可观。
 - Feasibility 技术可行性：借助百度API和高德API开放平台以实现产品主要技术，使用计算机视觉的智能视觉分析图像，并利用计算机智能文字转语音API。
 - Desirability 用户可欲性：传统开罚单方式操作繁琐，且比较看交警个人主观判断，容易产生纠纷，此款产品不仅可以提高用户的工作效率，还可以比较客观公平地开罚单，从而减少相关的纠纷。
+
+### [六、API 产品使用及输出展示](https://github.com/HuangLiMiao/API/blob/master/daima/finalwork.ipynb)
+####（1）[百度车牌识别API])(https://ai.baidu.com/tech/ocr_cars/plate)
+- 接口描述：支持识别中国大陆机动车蓝牌、黄牌（单双行）、绿牌、大型新能源（黄绿）、领使馆车牌、警牌、武警牌（单双行）、军牌（单双行）、港澳牌、农用车牌、民航车牌的地域编号和车牌号，并能同时识别图像中的多张车牌。
+- [技术文档](https://ai.baidu.com/ai-doc/OCR/ck3h7y191)
+- 调用示例
+![result1](https://github.com/HuangLiMiao/API/blob/master/imges/result/result1.PNG?raw=true)
+
+####（2）[高德地理编码API])(https://ai.baidu.com/tech/speech/tts_online)
+- 接口描述：地理编码/逆地理编码 API 是通过 HTTP/HTTPS 协议访问远程服务的接口，提供结构化地址与经纬度之间的相互转化的能力。
+- [技术文档](https://www.cnblogs.com/XieDong/p/7724556.html)
+- 调用示例
+![result2](https://github.com/HuangLiMiao/API/blob/master/imges/result/result2.PNG?raw=true)
+
+####（3）[百度语音合成API])(https://ai.baidu.com/tech/speech/tts_online)
+- 接口描述：百度语音合成服务，基于HTTP请求的REST API接口，将文本转换为可以播放的音频文件。合成的文件格式为 mp3，pcm（8k及16k），wav（16k），具体见aue参数。
+- [技术文档](https://ai.baidu.com/ai-doc/SPEECH/Qk38y8lrl)
+- 调用示例
+![result3](https://github.com/HuangLiMiao/API/blob/master/imges/result/result3.PNG?raw=true)
