@@ -6,7 +6,10 @@
  |  文件的主人 | 黄丽妙 |
  | 产品原型 | [交管助手](https://76t0e1.axshare.com) |
 
-
+表头|表头|表头
+---|:--:|---:
+内容|内容|内容
+内容|内容|内容
 
 # 项目名称： 交管助手
 ### 一、 MVP价值主张宣言
@@ -41,6 +44,6 @@
 
 ### [界面流程及关键智能交互](https://76t0e1.axshare.com)
 
-![原型一览1](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing1.png)
-![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png)
-![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png)
+![原型一览1](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing1.png?raw=true)
+![原型一览2](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing2.png?raw=true)
+![原型一览3](https://github.com/HuangLiMiao/API/blob/master/imges/yuanxing/yuanxing3.png?raw=true)
